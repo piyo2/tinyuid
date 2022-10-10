@@ -14,5 +14,7 @@
             "email": "scin.ichi@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "piyo2/base": "^1.0"
+    }
 }
