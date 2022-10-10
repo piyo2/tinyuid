@@ -1,0 +1,18 @@
+{
+    "name": "piyo2/tinyuid",
+    "description": "Tiny UID generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "piyo2\\util\\tinyuid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shinichiro Yabu",
+            "email": "scin.ichi@gmail.com"
+        }
+    ],
+    "require": {}
+}
