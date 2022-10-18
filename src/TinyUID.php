@@ -5,8 +5,6 @@ namespace piyo2\util\tinyuid;
 use ErrorException;
 use piyo2\util\base\Base;
 
-require __DIR__ . '/../vendor/piyo2/base/src/Base.php';
-
 final class TinyUID
 {
 	/** @var string */

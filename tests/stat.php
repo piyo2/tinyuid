@@ -2,7 +2,7 @@
 
 use piyo2\util\tinyuid\TinyUID;
 
-require __DIR__ . '/../src/TinyUID.php';
+require __DIR__ . '/../vendor/autoload.php';
 
 $length = 14;
 $N = 100000;
